@@ -1,5 +1,5 @@
 // авторы: Игорь Стребежев и Андрей Андропов
-package main
+package laba6_cs
 
 import (
 	"fmt"
